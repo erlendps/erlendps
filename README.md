@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Erlend 👋
 
+- 🎓 2nd year Computer Science Student at NTNU
+- 💻 Python, Java, JavaScript, C
+- 🌎 Web-Dev
+- 🤖 ML and Deep Learning
 <!--
 **erlendps/erlendps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
