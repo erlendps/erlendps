@@ -1,7 +1,6 @@
 ### Hi there, I'm Erlend 👋
 
-- 🎓 2nd year Computer Science Student at NTNU
-- 💻 Python, Java, Kotlin, JavaScript, TypeScript, C
+- 🎓 3rd year Computer Science Student at NTNU
+- 💻 Python, Java, Kotlin, JavaScript, TypeScript, C, Rust
 - 🌎 Web-Dev
 - 🤖 ML & Deep Learning
-
