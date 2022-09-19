@@ -4,3 +4,5 @@
 - 💻 Python, Java, Kotlin, JavaScript, TypeScript, C, Rust
 - 🌎 Web-Dev
 - 🤖 ML & Deep Learning
+
+[My website](https://pauska.no/)
