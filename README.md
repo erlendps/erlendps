@@ -1,7 +1,7 @@
 ### Hi there, I'm Erlend 👋
 
 - 🎓 4th year Computer Science Student at NTNU
-- 💻 Python, Java, Kotlin, JavaScript, TypeScript, C, Rust
+- 💻 Python, Java, Kotlin, TypeScript, C, Rust
 - 🌎 Web-Dev
 - :space_invader: Computer Graphics
 - 🤖 ML & Deep Learning
